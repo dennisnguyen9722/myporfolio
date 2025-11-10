@@ -1,0 +1,79 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "about": "Giới thiệu",
+    "skills": "Kỹ năng",
+    "projects": "Dự án",
+    "contact": "Liên hệ"
+  },
+  "hero": {
+    "greeting": "Xin chào, tôi là",
+    "badge": "Sẵn sàng nhận việc",
+    "role": "Lập Trình Viên Full Stack",
+    "description": "4+ năm kinh nghiệm xây dựng các giải pháp web xuất sắc với công nghệ hiện đại. Chuyên về ReactJS, Next.js và phát triển full-stack.",
+    "cta": "Xem Công Việc",
+    "downloadCV": "Tải CV",
+    "scroll": "Cuộn xuống"
+  },
+  "about": {
+    "title": "Về Tôi",
+    "badge": "Tôi Là Ai",
+    "description": "Lập trình viên full-stack đam mê với chuyên môn mạnh về công nghệ frontend, thiết kế UI/UX và xây dựng ứng dụng web mở rộng. Tôi kết hợp kỹ năng kỹ thuật với khả năng giải quyết vấn đề sáng tạo để mang lại kết quả xuất sắc.",
+    "stat1": "Dự Án Hoàn Thành",
+    "stat2": "Khách Hàng Hài Lòng",
+    "stat3": "Năm Kinh Nghiệm",
+    "stat4": "Tỷ Lệ Thành Công",
+    "feature1Title": "Chuyên Gia Frontend",
+    "feature1Desc": "Thành thạo ReactJS, Next.js, TypeScript với UI hoàn hảo từng pixel",
+    "feature2Title": "Kỹ Năng Full-Stack",
+    "feature2Desc": "Kinh nghiệm với Node.js, Java Spring Boot và quản lý database",
+    "feature3Title": "Chuyên Gia CMS",
+    "feature3Desc": "Chuyên gia WordPress với 20+ website thương mại điện tử",
+    "feature4Title": "Thiết Kế & Video",
+    "feature4Desc": "Thành thạo Adobe Creative Suite cho thiết kế và sản xuất video"
+  },
+  "skills": {
+    "title": "Kỹ Năng & Chuyên Môn",
+    "badge": "Tôi Làm Gì",
+    "subtitle": "Công nghệ và công cụ tôi làm việc chuyên nghiệp"
+  },
+  "projects": {
+    "title": "Dự Án Nổi Bật",
+    "badge": "Portfolio",
+    "subtitle": "Những công việc tốt nhất của tôi trên nhiều lĩnh vực và công nghệ"
+  },
+  "contact": {
+    "badge": "Liên Hệ",
+    "title": "Hãy Cùng Làm Việc",
+    "subtitle": "Tôi đang tìm kiếm cơ hội full-time và dự án freelance",
+    "cvTitle": "Tải CV Của Tôi",
+    "cvDescription": "Xem chi tiết kinh nghiệm, kỹ năng và thành tựu của tôi",
+    "downloadCV": "Tải CV",
+    "getInTouch": "Thông Tin Liên Hệ",
+    "description": "Đang tìm một developer tận tâm? Hãy thảo luận về cách tôi có thể đóng góp cho team của bạn",
+    "email": "Email",
+    "phone": "Điện thoại",
+    "location": "Địa chỉ",
+    "name": "Tên của bạn",
+    "namePlaceholder": "Nguyễn Văn A",
+    "emailPlaceholder": "nhatuyendung@congty.com",
+    "message": "Tin nhắn",
+    "messagePlaceholder": "Cho tôi biết về cơ hội này...",
+    "send": "Gửi Tin Nhắn"
+  },
+  "footer": {
+    "description": "Lập trình viên full-stack đam mê tạo ra các giải pháp web sáng tạo",
+    "quickLinks": "Liên Kết Nhanh",
+    "home": "Trang chủ",
+    "about": "Giới thiệu",
+    "skills": "Kỹ năng",
+    "projects": "Dự án",
+    "contact": "Liên hệ",
+    "contactTitle": "Liên Hệ",
+    "email": "Email",
+    "phone": "Điện thoại",
+    "location": "Địa chỉ",
+    "copyright": "© {year} Nguyễn Cao Duy. Bản quyền thuộc về. Được xây dựng với",
+    "builtWith": "Next.js, TypeScript & Tailwind CSS"
+  }
+}

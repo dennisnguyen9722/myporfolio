@@ -1,0 +1,79 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "badge": "Available for hire",
+    "role": "Full Stack Developer",
+    "description": "4+ years of experience crafting exceptional web solutions with modern technologies. Specialized in ReactJS, Next.js, and full-stack development.",
+    "cta": "View My Work",
+    "downloadCV": "Download CV",
+    "scroll": "Scroll down"
+  },
+  "about": {
+    "title": "About Me",
+    "badge": "Who I Am",
+    "description": "A passionate full-stack developer with strong expertise in frontend technologies, UI/UX design, and building scalable web applications. I combine technical skills with creative problem-solving to deliver outstanding results.",
+    "stat1": "Projects Completed",
+    "stat2": "Happy Clients",
+    "stat3": "Years Experience",
+    "stat4": "Success Rate",
+    "feature1Title": "Frontend Expert",
+    "feature1Desc": "Mastery in ReactJS, Next.js, TypeScript with pixel-perfect UI implementation",
+    "feature2Title": "Full-Stack Skills",
+    "feature2Desc": "Experience with Node.js, Java Spring Boot, and database management",
+    "feature3Title": "CMS Specialist",
+    "feature3Desc": "WordPress expert with 20+ e-commerce sites built and managed",
+    "feature4Title": "Design & Video",
+    "feature4Desc": "Proficient in Adobe Creative Suite for design and video production"
+  },
+  "skills": {
+    "title": "Skills & Expertise",
+    "badge": "What I Do",
+    "subtitle": "Technologies and tools I work with professionally"
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "badge": "Portfolio",
+    "subtitle": "Showcase of my best work across different industries and technologies"
+  },
+  "contact": {
+    "badge": "Get In Touch",
+    "title": "Let's Work Together",
+    "subtitle": "I'm currently open to full-time opportunities and freelance projects",
+    "cvTitle": "Download My Resume",
+    "cvDescription": "Get a detailed overview of my experience, skills, and achievements",
+    "downloadCV": "Download CV",
+    "getInTouch": "Contact Information",
+    "description": "Looking for a dedicated developer? Let's discuss how I can contribute to your team",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "name": "Your Name",
+    "namePlaceholder": "John Doe",
+    "emailPlaceholder": "recruiter@company.com",
+    "message": "Message",
+    "messagePlaceholder": "Tell me about the opportunity...",
+    "send": "Send Message"
+  },
+  "footer": {
+    "description": "Full-stack developer passionate about creating innovative web solutions",
+    "quickLinks": "Quick Links",
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact",
+    "contactTitle": "Contact",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "copyright": "© {year} Nguyen Cao Duy. All rights reserved. Built with",
+    "builtWith": "Next.js, TypeScript & Tailwind CSS"
+  }
+}
