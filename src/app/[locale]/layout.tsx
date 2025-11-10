@@ -31,7 +31,7 @@ export async function generateMetadata({
     description:
       descriptions[locale as keyof typeof descriptions] || descriptions.en,
     icons: {
-      icon: '/favicon.png' // hoặc '/favicon.ico'
+      icon: '/favicon.png'
     },
     keywords: [
       'Nguyen Cao Duy',
