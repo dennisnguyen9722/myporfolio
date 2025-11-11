@@ -25,11 +25,6 @@ export default function HeroSection() {
     return () => window.removeEventListener('mousemove', handleMouseMove)
   }, [])
 
-  const roles =
-    locale === 'vi'
-      ? ['Full Stack Developer', 'Frontend Developer', 'UI/UX Designer']
-      : ['Full Stack Developer', 'Frontend Developer', 'UI/UX Designer']
-
   return (
     <section className="min-h-screen flex items-center justify-center relative overflow-hidden bg-linear-to-br from-slate-900 via-purple-900 to-slate-900">
       {/* Animated Gradient Orbs */}
@@ -197,12 +192,12 @@ export default function HeroSection() {
             {[
               {
                 icon: Github,
-                href: 'https://github.com/duynguyencao',
+                href: 'https://github.com/dennisnguyen9722',
                 label: 'GitHub'
               },
               {
                 icon: Linkedin,
-                href: 'https://linkedin.com/in/duynguyencao',
+                href: 'https://www.linkedin.com/in/nguyen-duy-0b7884265/',
                 label: 'LinkedIn'
               },
               { icon: Mail, href: 'mailto:dnc221297@gmail.com', label: 'Email' }
