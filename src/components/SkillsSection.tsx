@@ -1,11 +1,10 @@
 'use client'
 
-import { useTranslations, useLocale } from 'next-intl'
+import { useTranslations } from 'next-intl'
 import { motion } from 'framer-motion'
 
 export default function SkillsSection() {
   const t = useTranslations('skills')
-  const locale = useLocale()
 
   const skillCategories = [
     {
@@ -58,10 +57,10 @@ export default function SkillsSection() {
   return (
     <section
       id="skills"
-      className="py-20 bg-gradient-to-br from-gray-50 to-gray-100 dark:from-gray-950 dark:to-gray-900 relative overflow-hidden"
+      className="py-20 bg-linear-to-br from-gray-50 to-gray-100 dark:from-gray-950 dark:to-gray-900 relative overflow-hidden"
     >
       {/* Background Pattern */}
-      <div className="absolute inset-0 bg-[linear-gradient(rgba(0,0,0,.02)_1px,transparent_1px),linear-gradient(90deg,rgba(0,0,0,.02)_1px,transparent_1px)] bg-[size:64px_64px]" />
+      <div className="absolute inset-0 bg-[linear-gradient(rgba(0,0,0,.02)_1px,transparent_1px),linear-gradient(90deg,rgba(0,0,0,.02)_1px,transparent_1px)] bg-size-[64px_64px]" />
 
       <div className="container mx-auto px-4 relative z-10">
         <motion.div
@@ -75,13 +74,13 @@ export default function SkillsSection() {
             initial={{ opacity: 0, scale: 0.8 }}
             whileInView={{ opacity: 1, scale: 1 }}
             viewport={{ once: true }}
-            className="inline-block px-4 py-2 rounded-full bg-gradient-to-r from-blue-100 to-purple-100 dark:from-blue-900/30 dark:to-purple-900/30 text-blue-700 dark:text-blue-300 text-sm font-semibold mb-4"
+            className="inline-block px-4 py-2 rounded-full bg-linear-to-r from-blue-100 to-purple-100 dark:from-blue-900/30 dark:to-purple-900/30 text-blue-700 dark:text-blue-300 text-sm font-semibold mb-4"
           >
             {t('badge')}
           </motion.span>
 
           <h2 className="text-5xl md:text-6xl font-black mb-6">
-            <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 bg-clip-text text-transparent">
+            <span className="bg-linear-to-r from-blue-600 via-purple-600 to-pink-600 bg-clip-text text-transparent">
               {t('title')}
             </span>
           </h2>
@@ -102,7 +101,7 @@ export default function SkillsSection() {
             >
               <div className="flex items-center gap-3 mb-6">
                 <div
-                  className={`w-3 h-3 rounded-full bg-gradient-to-r ${category.color}`}
+                  className={`w-3 h-3 rounded-full bg-linear-to-r ${category.color}`}
                 />
                 <h3 className="text-2xl font-bold text-gray-800 dark:text-gray-200">
                   {category.category}
@@ -138,7 +137,7 @@ export default function SkillsSection() {
                           duration: 1,
                           delay: categoryIndex * 0.1 + skillIndex * 0.05 + 0.2
                         }}
-                        className={`h-full bg-gradient-to-r ${category.color} rounded-full`}
+                        className={`h-full bg-linear-to-r ${category.color} rounded-full`}
                       />
                     </div>
                   </motion.div>

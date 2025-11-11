@@ -37,7 +37,7 @@ export default function ProjectsSection() {
         'https://res.cloudinary.com/de3olloc4/image/upload/v1762750611/quizzapp_tceqwr.png',
       tags: ['React', 'Context API', 'Local Storage', 'CSS Modules'],
       company: 'Personal Project',
-      link: '#',
+      link: 'https://github.com/dennisnguyen9722/Quick-App-React',
       featured: false
     },
     {
