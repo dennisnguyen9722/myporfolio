@@ -17,7 +17,7 @@ const STACK = [
   { name: "Prisma", c: "#ffa14a" },
 ];
 
-const NAV = ["about", "projects", "blog", "contact"] as const;
+const NAV = ["about", "projects", "contact"] as const;
 
 export default function Home() {
   const locale = useLocale();
