@@ -1,0 +1,38 @@
+{
+  "nav": {
+    "about": "About",
+    "projects": "Projects",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "hero": {
+    "location": "based in Ho Chi Minh City",
+    "role": "Full-stack Developer",
+    "lede": "I build web products end to end — from React & Next.js interfaces down to the Node, Nest and database layer that powers them.",
+    "downloadCV": "Download CV"
+  },
+  "about": {
+    "label": "About",
+    "p1": "I'm a full-stack developer who likes owning the whole slice of a feature. On the front I reach for React and Next.js; on the back I work with Node and NestJS, and I'm comfortable designing and querying the database that sits under it all.",
+    "p2": "What I care about: clean data models, interfaces that feel fast, and code the next person can actually read.",
+    "stack": "Stack"
+  },
+  "projects": {
+    "label": "Projects",
+    "title": "Things I've built",
+    "subtitle": "From full-stack applications to business websites running in production.",
+    "featured": "Featured",
+    "viewDemo": "Live demo",
+    "viewCode": "Source",
+    "personal": "Personal project",
+    "freelance": "Freelance",
+    "client": "Client project"
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Let's work together",
+    "subtitle": "I'm open to new opportunities. If it feels like a fit, reach out directly — I reply quickly.",
+    "emailLabel": "Send email",
+    "downloadCV": "Download CV"
+  }
+}

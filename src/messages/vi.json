@@ -1,0 +1,38 @@
+{
+  "nav": {
+    "about": "Giới thiệu",
+    "projects": "Dự án",
+    "blog": "Blog",
+    "contact": "Liên hệ"
+  },
+  "hero": {
+    "location": "sống tại TP. Hồ Chí Minh",
+    "role": "Full-stack Developer",
+    "lede": "Mình xây dựng sản phẩm web trọn gói — từ giao diện React & Next.js đến tầng Node, Nest và cơ sở dữ liệu phía sau.",
+    "downloadCV": "Tải CV"
+  },
+  "about": {
+    "label": "Giới thiệu",
+    "p1": "Mình là full-stack developer thích làm chủ trọn vẹn một tính năng. Phía front mình dùng React và Next.js; phía back mình làm với Node và NestJS, và thoải mái thiết kế, truy vấn cơ sở dữ liệu bên dưới.",
+    "p2": "Điều mình quan tâm: mô hình dữ liệu gọn gàng, giao diện chạy mượt, và code mà người sau đọc vào hiểu được.",
+    "stack": "Công nghệ"
+  },
+  "projects": {
+    "label": "Dự án",
+    "title": "Sản phẩm mình đã xây",
+    "subtitle": "Từ ứng dụng full-stack đến website doanh nghiệp đang vận hành thực tế.",
+    "featured": "Nổi bật",
+    "viewDemo": "Xem demo",
+    "viewCode": "Mã nguồn",
+    "personal": "Dự án cá nhân",
+    "freelance": "Freelance",
+    "client": "Dự án khách hàng"
+  },
+  "contact": {
+    "label": "Liên hệ",
+    "title": "Cùng làm việc nhé",
+    "subtitle": "Mình đang sẵn sàng cho các cơ hội mới. Nếu bạn thấy phù hợp, cứ liên hệ trực tiếp — mình phản hồi nhanh.",
+    "emailLabel": "Gửi email",
+    "downloadCV": "Tải CV"
+  }
+}
